@@ -7,7 +7,7 @@ namespace CV.Models
 {
     public class Skill
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         public int Name { get; set; }
     }
 }
