@@ -9,5 +9,10 @@ namespace CV.Models
     {
         public string Istitution { get; set; }
         public string Title { get; set; }
+
+        public Education()
+        {
+            
+        }
     }
 }
